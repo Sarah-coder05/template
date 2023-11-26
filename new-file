@@ -1,0 +1,53 @@
+
+<body>
+    <div class="container">
+       
+        <div>
+           
+        </div>
+        
+        </div>
+       
+       
+        
+        <div>
+            
+        </div>
+       
+        <div>
+           <form action="#">
+                <div>
+                    <div>
+                        <span>Name</span>
+                        <input type="text" placeholder="Full name">
+                    </div>
+                    <div>
+                        <span>Email</span>
+                        <input type="text" placeholder="Email address">
+                    </div>
+                    <div>
+                        <span>How can we help?</span>
+                        <input type="text" placeholder="Tell us about the project">
+                    </div>
+                </div>
+                <div>
+                    <span>Services</span>
+                </div>
+                <div>
+                    <label for="">
+                        <span>Branding</span>
+                    </label>
+                    <label for="">
+                        <span>Digital Experiences</span>
+                    </label>
+                    <label for="">
+                        <span>Web development</span>
+                    </label>
+                </div>
+                <div>
+                    <input type="submit" value="Send message">
+                </div>
+           </form>
+        </div>
+    </div>
+</body>
